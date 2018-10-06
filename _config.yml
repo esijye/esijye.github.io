@@ -22,9 +22,9 @@ baseurl: "/"
 url: "http://esijye.github.io"
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           'Lagrange'
-description:	       'a minimalist Jekyll theme'
-author:              'Paul Le'
+title:		           'Edwige Sijyeniyo'
+description:	       'PhD Student at University of Antwerp, Belgium'
+author:              'ES'
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
